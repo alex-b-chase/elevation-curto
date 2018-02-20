@@ -1,0 +1,1077 @@
+Gene	Annotation
+group_1008	hypothetical protein
+trxB_2	Thioredoxin reductase
+group_1012	hypothetical protein
+xylG_2	Xylose import ATP-binding protein XylG
+group_1025	hypothetical protein
+rluB	Ribosomal large subunit pseudouridine synthase B
+group_1030	Cell wall synthesis protein Wag31
+group_1037	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+group_1047	hypothetical protein
+group_1051	hypothetical protein
+lacI_1	Lactose operon repressor
+ftsL	hypothetical protein
+ghrB	Glyoxylate/hydroxypyruvate reductase B
+ykfB	L-Ala-D/L-Glu epimerase
+cofC	2-phospho-L-lactate guanylyltransferase
+group_1112	hypothetical protein
+group_1116	Stress responsive A/B Barrel Domain protein
+group_1137	hypothetical protein
+mepM_1	Murein DD-endopeptidase MepM
+dauA	C4-dicarboxylic acid transporter DauA
+chmD	dTDP-4-oxo-6-deoxy-D-allose reductase
+cpdA_2	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+degQ	Periplasmic pH-dependent serine endoprotease DegQ precursor
+moeZ_2	putative adenylyltransferase/sulfurtransferase MoeZ
+nplT	Neopullulanase
+murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+ftsQ	Cell division protein FtsQ
+group_1193	hypothetical protein
+isfD_1	Sulfoacetaldehyde reductase
+thiL	Thiamine-monophosphate kinase
+tcrX_1	putative transcriptional regulatory protein TcrX
+tcrX_2	putative transcriptional regulatory protein TcrX
+betI	Bacterial regulatory proteins, tetR family
+resA	Thiol-disulfide oxidoreductase ResA
+tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+sbcC	Nuclease SbcCD subunit C
+group_1220	hypothetical protein
+drrA_2	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+miaA	tRNA dimethylallyltransferase
+group_1252	hypothetical protein
+menA_1	prenyltransferase
+alx	Inner membrane protein alx
+tag	DNA-3-methyladenine glycosylase 1
+acuI	Acrylyl-CoA reductase AcuI
+cytR_1	HTH-type transcriptional repressor CytR
+mshD_1	Mycothiol acetyltransferase
+recX	recombination regulator RecX
+trmH	tRNA (guanosine(18)-2'-O)-methyltransferase
+group_1298	hypothetical protein
+ykfC	Gamma-D-glutamyl-L-lysine endopeptidase
+dhaM	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+group_1318	Fructosamine kinase
+tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+glbO	Group 2 truncated hemoglobin GlbO
+ssb1	Single-stranded DNA-binding protein 1
+group_1359	hypothetical protein
+argO	Arginine exporter protein ArgO
+lspA	Lipoprotein signal peptidase
+ydbM	Putative acyl-CoA dehydrogenase YdbM
+xerC	Tyrosine recombinase XerC
+tagH_1	Teichoic acids export ATP-binding protein TagH
+nfdA	N-substituted formamide deformylase precursor
+mscL	Large-conductance mechanosensitive channel
+ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+aroE	Shikimate dehydrogenase
+xylB	Xylulose kinase
+hag	Flagellin
+group_1464	hypothetical protein
+birA_2	Bifunctional ligase/repressor BirA
+maf	Septum formation protein Maf
+group_1470	hypothetical protein
+group_1475	GDSL-like Lipase/Acylhydrolase
+mutT	bifunctional nicotinamide mononucleotide adenylyltransferase/ADP-ribose pyrophosphatase
+mak	Maltokinase
+group_1485	3-methyladenine DNA glycosylase
+ykoV	putative DNA repair protein YkoV
+yjcF	Acetyltransferase (GNAT) family protein
+rsmE	Ribosomal RNA small subunit methyltransferase E
+group_1516	hypothetical protein
+group_1517	putative aminodeoxychorismate lyase
+group_1518	Alpha/beta hydrolase family protein
+group_1527	Acetyltransferase (GNAT) family protein
+group_1538	hypothetical protein
+group_1546	Acetyltransferase (GNAT) family protein
+ygfZ	glycine cleavage system aminomethyltransferase T
+ylxH	Flagellum site-determining protein YlxH
+group_1573	hypothetical protein
+tlyA	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+group_1587	Alpha-pyrone synthesis polyketide synthase-like Pks18
+rsmG	Ribosomal RNA small subunit methyltransferase G
+lolA	Outer-membrane lipoprotein carrier protein
+menE	2-succinylbenzoate--CoA ligase
+group_1604	Radical SAM superfamily protein
+group_1605	Putative conjugal transfer protein/MT3759
+group_161	hypothetical protein
+rne	Ribonuclease E
+lysN_2	2-aminoadipate transaminase
+sigA	RNA polymerase sigma factor SigA
+hisE	Phosphoribosyl-ATP pyrophosphatase
+tolB	hypothetical protein
+truA	tRNA pseudouridine synthase A
+glpQ	Glycerophosphoryl diester phosphodiesterase precursor
+group_1688	DSBA-like thioredoxin domain protein
+Hgd	2-(hydroxymethyl)glutarate dehydrogenase
+sbcD	Nuclease SbcCD subunit D
+group_1691	hypothetical protein
+aroK_2	shikimate kinase
+gluP	Rhomboid protease GluP
+ddpC	Glutathione transport system permease protein GsiD
+group_1702	hypothetical protein
+group_1704	hypothetical protein
+ligC	Putative DNA ligase-like protein/MT0965
+group_1734	hypothetical protein
+mrx1	Mycoredoxin 1
+fliD	Flagellar hook-associated protein 2
+group_1751	Flagellar protein (FlbD)
+pspA_2	Phosphoserine phosphatase 1
+group_1756	AP-4-A phosphorylase
+group_1757	SURF1 family protein
+fmt	Methionyl-tRNA formyltransferase
+pyrF	orotidine 5'-phosphate decarboxylase
+fkbP_1	FK506-binding protein
+ribBA_2	Riboflavin biosynthesis protein RibBA
+ywtF	Putative transcriptional regulator YwtF
+group_1786	hypothetical protein
+ttgW_2	DNA-binding transcriptional repressor AcrR
+luxA_2	methylenetetrahydromethanopterin reductase
+gcvT	Aminomethyltransferase
+moaC2	Cyclic pyranopterin monophosphate synthase accessory protein 2
+galM_2	Aldose 1-epimerase
+group_1795	ABC-2 family transporter protein
+rsmC	Ribosomal RNA small subunit methyltransferase C
+strL	dTDP-4-dehydrorhamnose reductase
+proC	Pyrroline-5-carboxylate reductase
+acpS	Holo-[acyl-carrier-protein] synthase
+group_1894	ribonuclease BN/unknown domain fusion protein
+rlmG	Ribosomal RNA large subunit methyltransferase G
+yqjA	Inner membrane protein YqjA
+group_1900	hypothetical protein
+group_1901	hypothetical protein
+group_1903	Putative transmembrane protein (PGPGW)
+nnr_1	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+group_1920	hypothetical protein
+yedY	Sulfoxide reductase catalytic subunit YedY precursor
+cmk	Cytidylate kinase
+nodA	Nodulation protein A
+ubiG_2	hypothetical protein
+ppiB	Peptidyl-prolyl cis-trans isomerase cyp18
+group_1963	hypothetical protein
+smc_2	Chromosome partition protein Smc
+group_1990	hypothetical protein
+group_2004	hypothetical protein
+ykoU	putative ATP-dependent DNA ligase YkoU
+cobQ	CobB/CobQ-like glutamine amidotransferase domain protein
+phnA	Type I phosphodiesterase / nucleotide pyrophosphatase
+trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+hisI	phosphoribosyl-AMP cyclohydrolase
+ung	Uracil-DNA glycosylase
+trxA_2	Thioredoxin
+rnhB	Ribonuclease HII
+mscM	Mechanosensitive ion channel
+group_2034	hypothetical protein
+ribD	Riboflavin biosynthesis protein RibD
+nicF_1	nicotinamidase/pyrazinamidase
+menD	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+rutD_2	Tropinesterase
+group_2070	Thioesterase superfamily protein
+trxC	hypothetical protein
+swrC	Swarming motility protein SwrC
+folB	putative dihydroneopterin aldolase
+mutX	8-oxo-dGTP diphosphatase
+azoB_1	NAD(P)H azoreductase
+scoF	Cold shock protein ScoF
+group_2096	hypothetical protein
+group_2104	hypothetical protein
+mog	Molybdopterin adenylyltransferase
+group_2111	hypothetical protein
+cysW	Sulfate transport system permease protein CysW
+folP	Dihydropteroate synthase
+xyoA_2	putative xylitol oxidase
+scpB	Segregation and condensation protein B
+metN	Methionine import ATP-binding protein MetN
+yqjI_1	Transcriptional regulator YqjI
+gsiC_3	Glutathione transport system permease protein GsiC
+group_2182	Long-chain-fatty-acid--CoA ligase FadD15
+group_2183	DSBA-like thioredoxin domain protein
+group_2186	hypothetical protein
+fliW	Flagellar assembly factor FliW
+moeZ_1	putative adenylyltransferase/sulfurtransferase MoeZ
+rppH	RNA pyrophosphohydrolase
+pbpG	D-alanyl-D-alanine endopeptidase precursor
+serB	Phosphoserine phosphatase
+dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+prmC_1	Release factor glutamine methyltransferase
+glgX_2	Glycogen debranching enzyme
+group_2219	hypothetical protein
+otsB	Trehalose-6-phosphate phosphatase
+mtrB	Sensor histidine kinase MtrB
+purE	N5-carboxyaminoimidazole ribonucleotide mutase
+acsA_1	Acetyl-coenzyme A synthetase
+ridA	Enamine/imine deaminase
+yncA_1	ribosomal-protein-alanine N-acetyltransferase
+araB	L-arabinolactonase
+group_2248	hypothetical protein
+yjcF_1	Acetyltransferase (GNAT) family protein
+nifU	NifU-like protein
+csd	putative cysteine desulfurase
+clcD	Dienelactone hydrolase family protein
+tilS	tRNA(Ile)-lysidine synthase
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+group_2263	Glycosyl transferase family 2
+group_2264	hypothetical protein
+group_2266	Vitamin K epoxide reductase family protein
+tyrS	Tyrosine--tRNA ligase
+group_2268	hypothetical protein
+pmt	putative dolichyl-phosphate-mannose--protein mannosyltransferase
+group_2273	SprT-like family protein
+smc_1	Chromosome partition protein Smc
+cysE	Serine acetyltransferase
+mdtK	Multidrug resistance protein MdtK
+xerD	Tyrosine recombinase XerD
+gsiD_2	Glutathione transport system permease protein GsiD
+pimA_1	GDP-mannose-dependent alpha-(1-2)-phosphatidylinositol mannosyltransferase
+flgK	Flagellar hook-associated protein 1
+pdxT	Glutamine amidotransferase subunit PdxT
+lnt	Apolipoprotein N-acyltransferase
+group_2358	OsmC-like protein
+glgB	1,4-alpha-glucan branching enzyme GlgB
+fpg1	Formamidopyrimidine-DNA glycosylase 1
+purK	N5-carboxyaminoimidazole ribonucleotide synthase
+ulaC	Ascorbate-specific phosphotransferase enzyme IIA component
+cdd	Cytidine deaminase
+mtlA	PTS system mannitol-specific EIICB component
+mqo	putative malate:quinone oxidoreductase
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase
+ccsB	Cytochrome c biogenesis protein CcsB
+group_2374	hypothetical protein
+tadA	tRNA-specific adenosine deaminase
+phr	Deoxyribodipyrimidine photo-lyase
+group_2379	Eukaryotic DNA topoisomerase I, catalytic core
+group_2385	hypothetical protein
+group_2386	hypothetical protein
+group_2388	hypothetical protein
+srlR_2	Glucitol operon repressor
+galK	Galactokinase
+group_2400	hypothetical protein
+ylmA_2	putative ABC transporter ATP-binding protein YlmA
+ydfJ	Membrane protein YdfJ
+soj_1	Sporulation initiation inhibitor protein Soj
+rnpA	ribonuclease P
+racE	Glutamate racemase 1
+group_2421	Enterobactin exporter EntS
+pheT	Phenylalanine--tRNA ligase beta subunit
+group_2424	hypothetical protein
+cinA	Putative competence-damage inducible protein
+group_2427	hypothetical protein
+folE	GTP cyclohydrolase 1
+rdgB	Non-canonical purine NTP pyrophosphatase
+metQ	putative D-methionine-binding lipoprotein MetQ precursor
+group_2446	hypothetical protein
+uvrC	UvrABC system protein C
+rutG	Putative pyrimidine permease RutG
+pknE	Serine/threonine-protein kinase PknE
+group_2505	HIT-like protein
+dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+group_2508	hypothetical protein
+csdE	Fe-S metabolism associated domain protein
+group_2510	flagellar basal body rod modification protein
+pomA	Chemotaxis protein PomA
+lafU	Chemotaxis protein LafU
+group_2519	Phosphatidylinositol 3- and 4-kinase
+glpF	putative glycerol uptake facilitator protein
+group_2523	GDP-mannose-dependent alpha-(1-2)-phosphatidylinositol mannosyltransferase
+lip3	Lipase 3 precursor
+entH	Proofreading thioesterase EntH
+group_2527	L-asparaginase II
+merA	Mercuric reductase
+viuB_2	Vibriobactin utilization protein ViuB
+group_2533	hypothetical protein
+rsmD	Ribosomal RNA small subunit methyltransferase D
+arsB	Arsenical pump membrane protein
+group_2543	hypothetical protein
+accC	Biotin carboxylase
+group_2546	beta-methylgalactoside transporter inner membrane component
+group_2552	MaoC like domain protein
+menA	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+adk	Adenylate kinase
+group_2559	Trehalase
+group_2560	Bax inhibitor 1 like protein
+albA	malonic semialdehyde reductase
+polA_1	DNA polymerase I, thermostable
+group_2589	ABC-2 family transporter protein
+hemC	Porphobilinogen deaminase
+group_2601	hypothetical protein
+pstS3	Phosphate-binding protein PstS 3 precursor
+dapC	putative N-succinyldiaminopimelate aminotransferase DapC
+tagG_2	Teichoic acid translocation permease protein TagG
+rhtA	Threonine/homoserine exporter RhtA
+dcp	Peptidyl-dipeptidase dcp
+fgs	Folylpolyglutamate synthase
+spoIIIE	DNA translocase SpoIIIE
+rsmI	Ribosomal RNA small subunit methyltransferase I
+group_2622	putative glycosyl hydrolase/MT2062
+yfmC	Fe(3 )-citrate-binding protein YfmC precursor
+group_2625	prephenate dehydrogenase
+group_2627	Polyketide cyclase / dehydrase and lipid transport
+group_2633	hypothetical protein
+corC_1	Magnesium and cobalt efflux protein CorC
+priA_1	Primosomal protein N'
+dnaJ_2	Chaperone protein DnaJ
+group_2704	hypothetical protein
+murF	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+group_2706	YGGT family protein
+pyrD	Dihydroorotate dehydrogenase (quinone)
+def_2	Peptide deformylase
+tqsA	pheromone autoinducer 2 transporter
+rmpB	3-hexulose-6-phosphate isomerase
+zapE	AFG1-like ATPase
+flgL	Flagellar hook-associated protein 3
+fliS	Flagellar protein FliS
+fliE	flagellar hook-basal body protein FliE
+yscN	putative ATP synthase YscN
+flhB	Flagellar biosynthetic protein FlhB
+dinB	DNA polymerase IV
+cobB	NAD-dependent protein deacetylase
+sufD	FeS cluster assembly protein SufD
+group_2742	hypothetical protein
+group_2743	hypothetical protein
+lysA	Diaminopimelate decarboxylase
+gsiB_2	Glutathione-binding protein GsiB precursor
+pepE	Peptidase E
+aroA	3-phosphoshikimate 1-carboxyvinyltransferase
+gltX	Glutamate--tRNA ligase
+group_2752	hypothetical protein
+manA	Mannose-6-phosphate isomerase
+group_2754	hypothetical protein
+ptsI	Phosphoenolpyruvate-protein phosphotransferase
+yhfK_1	putative sugar epimerase YhfK
+group_2760	hypothetical protein
+dhbC	Isochorismate synthase DhbC
+group_2766	putative acyltransferase
+rplQ	50S ribosomal protein L17
+group_2772	Methyltransferase domain protein
+zur	Zinc uptake regulation protein
+group_278	putative oxidoreductase/MSMEI_2347
+sdh_1	Serine 3-dehydrogenase
+grpE	heat shock protein GrpE
+arnC	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+nemA	N-ethylmaleimide reductase
+group_2797	hypothetical protein
+group_2800	hypothetical protein
+glpD_2	Aerobic glycerol-3-phosphate dehydrogenase
+pnuC	Nicotinamide riboside transporter PnuC
+ytpA	Phospholipase YtpA
+group_2805	DinB superfamily protein
+ndx1	Diadenosine hexaphosphate hydrolase
+group_2816	hypothetical protein
+apeB	putative M18 family aminopeptidase 2
+group_2818	hypothetical protein
+group_282	Flagellar hook-length control protein FliK
+group_2820	CAAX amino terminal protease self- immunity
+dnaE2_2	error-prone DNA polymerase
+group_2824	hypothetical protein
+rep	DNA-dependent helicase II
+group_2826	Phosphotransferase enzyme family protein
+nudC	NADH pyrophosphatase
+ubiG_1	Methyltransferase domain protein
+group_2833	hypothetical protein
+rsfS	Ribosomal silencing factor RsfS
+hisC	Histidinol-phosphate aminotransferase
+group_2836	Epimerase family protein
+dapB	4-hydroxy-tetrahydrodipicolinate reductase
+ssuE	FMN reductase (NADPH)
+araA	L-arabinose isomerase
+psaA	Manganese ABC transporter substrate-binding lipoprotein precursor
+yedK	Putative SOS response-associated peptidase YedK
+nudF	ADP-ribose pyrophosphatase
+yutF	putative hydrolase YutF
+rplY	50S ribosomal protein L25
+pth	Peptidyl-tRNA hydrolase
+group_2850	hypothetical protein
+tyrA	T-protein
+purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+group_2858	R3H domain protein
+fliN	Flagellar motor switch protein FliN
+group_2914	putative oxidoreductase/MSMEI_2347
+murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+sepF	Cell division protein SepF
+kstR	HTH-type transcriptional repressor KstR
+group_2921	hypothetical protein
+recO	DNA repair protein RecO
+fabH_1	3-oxoacyl-[acyl-carrier-protein] synthase 3
+pepA	Cytosol aminopeptidase
+group_2930	hypothetical protein
+fadB	Fatty acid oxidation complex subunit alpha
+sseA_1	Putative thiosulfate sulfurtransferase SseA
+fliM	Flagellar motor switch protein FliM
+ybaK_1	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+dhaK_1	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+mshC	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+dapE_1	putative succinyl-diaminopimelate desuccinylase
+truB	tRNA pseudouridine synthase B
+thrB	Homoserine kinase
+sdh_2	Serine 3-dehydrogenase
+group_2952	hypothetical protein
+kgd	Multifunctional 2-oxoglutarate metabolism enzyme
+cdsA	Phosphatidate cytidylyltransferase
+group_2956	hypothetical protein
+ddl_2	D-alanine--D-alanine ligase
+plsC_1	1-acyl-sn-glycerol-3-phosphate acyltransferase
+leuB	3-isopropylmalate dehydrogenase
+corA_2	Magnesium transport protein CorA
+lrtA	Light-repressed protein A
+galE_1	UDP-glucose 4-epimerase
+ulaB	Ascorbate-specific phosphotransferase enzyme IIB component
+yhjE	Inner membrane metabolite transport protein YhjE
+bmrA	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+group_2970	Aspartate aminotransferase
+dsbD	Thiol:disulfide interchange protein DsbD
+marR_1	Multiple antibiotic resistance protein MarR
+alr_2	Alanine racemase
+group_2978	Alanine racemase
+group_2979	hypothetical protein
+hemY	hypothetical protein
+group_2986	hypothetical protein
+folD	Bifunctional protein FolD protein
+kdpB	Potassium-transporting ATPase B chain
+dagK	Diacylglycerol kinase
+yhdN_3	General stress protein 69
+hemE	Uroporphyrinogen decarboxylase
+group_3000	5'-nucleotidase
+ssb	Single-stranded DNA-binding protein
+parB	putative chromosome-partitioning protein ParB
+fhaB	FHA domain-containing protein FhaB
+group_3009	Haemolysin-III related
+dapL	LL-diaminopimelate aminotransferase
+lon1	Lon protease 1
+group_3016	hypothetical protein
+group_3020	Phosphotransferase enzyme family protein
+aviRb	Putative TrmH family tRNA/rRNA methyltransferase
+yneA	Cell division suppressor protein YneA
+rsmA	Ribosomal RNA small subunit methyltransferase A
+group_3028	hypothetical protein
+group_3030	hypothetical protein
+group_3032	hypothetical protein
+group_3037	ATP-dependent DNA helicase RecQ
+scpA	Segregation and condensation protein A
+ligA	DNA ligase
+galP	Major Facilitator Superfamily protein
+wbbL_4	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+mdeA_2	Methionine gamma-lyase
+ykoE	Putative HMP/thiamine permease protein YkoE
+pknB	Serine/threonine-protein kinase PknB
+mshA_3	D-inositol 3-phosphate glycosyltransferase
+def_1	Peptide deformylase
+group_3131	DNA-binding protein
+pbpB	Penicillin-binding protein PbpB
+murC	UDP-N-acetylmuramate--L-alanine ligase
+ctaC	Cytochrome c oxidase subunit 2 precursor
+patA	Putative N-acetyl-LL-diaminopimelate aminotransferase
+group_3140	Chromosome partition protein Smc
+map_2	Methionine aminopeptidase 2
+glnE	Glutamate-ammonia-ligase adenylyltransferase
+group_3143	hypothetical protein
+sauU	Major Facilitator Superfamily protein
+gyrB_2	DNA gyrase subunit B
+apt	Adenine phosphoribosyltransferase
+group_3149	preprotein translocase subunit YajC
+cpdA_1	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+dhaL	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+group_3153	hypothetical protein
+tatC2	Sec-independent protein translocase protein TatCy
+tkt	Transketolase
+pgl_1	6-phosphogluconolactonase
+group_3161	VIT family protein
+trpC	Indole-3-glycerol phosphate synthase
+gmk	Guanylate kinase
+group_3166	hypothetical protein
+pknK	Serine/threonine-protein kinase PknK
+sigR	ECF RNA polymerase sigma factor SigR
+hisN	Histidinol-phosphatase
+iscS	Cysteine desulfurase
+rimM	Ribosome maturation factor RimM
+ybdK_2	Carboxylate-amine ligase YbdK
+leuC	3-isopropylmalate dehydratase large subunit
+rmlC	dTDP-4-dehydrorhamnose 3,5-epimerase
+add2	Aminodeoxyfutalosine deaminase
+trpS	Tryptophan--tRNA ligase
+cbs	Putative cystathionine beta-synthase
+group_3185	Inosose dehydratase
+group_3186	bifunctional enoyl-CoA hydratase/phosphate acetyltransferase
+group_3187	bifunctional RNase H/acid phosphatase
+regX3_1	Sensory transduction protein regX3
+gpx2	Hydroperoxy fatty acid reductase gpx2
+purN	Phosphoribosylglycinamide formyltransferase
+group_3196	Membrane protein of unknown function
+znuC	Zinc import ATP-binding protein ZnuC
+menA_3	prenyltransferase
+trpF	N-(5'-phosphoribosyl)anthranilate isomerase
+galM_1	Aldose 1-epimerase
+kdpA	Potassium-transporting ATPase A chain
+group_3207	hypothetical protein
+orn	Oligoribonuclease
+serS	Serine--tRNA ligase
+yqjI_2	Transcriptional regulator YqjI
+iolE_1	Xylose isomerase-like TIM barrel
+group_3219	putative heme peroxidase
+cwsA	hypothetical protein
+nrdH	Glutaredoxin-like protein NrdH
+group_3229	Bacterial regulatory proteins, tetR family
+cca	CCA-adding enzyme
+ddl_1	D-alanine--D-alanine ligase
+yidD	Putative membrane protein insertion efficiency factor
+xseB	exodeoxyribonuclease VII small subunit
+polC	DNA polymerase III PolC-type
+group_3237	hypothetical protein
+ileS	Isoleucine--tRNA ligase
+proA	Gamma-glutamyl phosphate reductase
+argJ	Arginine biosynthesis bifunctional protein ArgJ
+pgsA2	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+yxaF	putative HTH-type transcriptional regulator YxaF
+dbpA	putative ATP-dependent helicase Lhr
+group_3256	hypothetical protein
+yfkM	General stress protein 18
+treP	Alpha,alpha-trehalose phosphorylase
+ulaF	L-ribulose-5-phosphate 4-epimerase UlaF
+crtN	hypothetical protein
+purM	Phosphoribosylformylglycinamidine cyclo-ligase
+yghB	Inner membrane protein YghB
+mmgC	Acyl-CoA dehydrogenase
+rluD	Ribosomal large subunit pseudouridine synthase D
+hisD	Histidinol dehydrogenase
+group_3336	hypothetical protein
+ctaF	Cytochrome c oxidase polypeptide 4
+leuS	Leucine--tRNA ligase
+hemN	Oxygen-independent coproporphyrinogen-III oxidase 1
+leuA	2-isopropylmalate synthase
+group_3342	hypothetical protein
+group_3346	PAC2 family protein
+group_3347	hypothetical protein
+fliG	Flagellar motor switch protein FliG
+group_3352	Flagellar FliJ protein
+group_3356	hypothetical protein
+ruvA	Holliday junction ATP-dependent DNA helicase RuvA
+deoC2	Deoxyribose-phosphate aldolase 2
+group_3369	Putative TrmH family tRNA/rRNA methyltransferase
+glgA	Capsular glucan synthase
+ctaA	Heme A synthase
+tpiA	Triosephosphate isomerase
+pgk	Phosphoglycerate kinase
+trpA	Tryptophan synthase alpha chain
+carA	Carbamoyl-phosphate synthase small chain
+group_3376	hypothetical protein
+pyrR	Bifunctional protein pyrR
+ywlC	Threonylcarbamoyl-AMP synthase
+gsiC_1	Glutathione transport system permease protein GsiC
+sadH	Putative oxidoreductase SadH
+metX	Homoserine O-acetyltransferase
+liaS_3	Sensor histidine kinase LiaS
+tlyC_2	Hemolysin C
+group_3389	hypothetical protein
+coaD	Phosphopantetheine adenylyltransferase
+recG	ATP-dependent DNA helicase RecG
+pheP	Phenylalanine-specific permease
+bcp_2	Putative peroxiredoxin/MT2597
+rlmCD	putative RNA methyltransferase/cg2084
+group_3398	inner membrane ABC transporter permease protein YjfF
+tdk	Thymidine kinase
+asd	Aspartate-semialdehyde dehydrogenase
+asnS	Asparagine--tRNA ligase
+qacA_1	Antiseptic resistance protein
+livF	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+sucC	Succinyl-CoA ligase [ADP-forming] subunit beta
+purH	Bifunctional purine biosynthesis protein PurH
+crtB	All-trans-phytoene synthase
+clpS	ATP-dependent Clp protease adaptor protein ClpS
+purU	Formyltetrahydrofolate deformylase
+group_3425	putative permease
+tesB	Acyl-CoA thioesterase 2
+group_3430	hypothetical protein
+yidA	Sugar phosphatase YidA
+entS_2	Enterobactin exporter EntS
+folP1	Dihydropteroate synthase 1
+hemL	Glutamate-1-semialdehyde 2,1-aminomutase
+group_3441	Major Facilitator Superfamily protein
+group_3442	putative 5-formyltetrahydrofolate cyclo-ligase
+cas9	CRISPR-associated endonuclease Cas9
+cysS	Cysteine--tRNA ligase
+senX3	Signal-transduction histidine kinase senX3
+pabA	Aminodeoxychorismate/anthranilate synthase component 2
+gcvP	Glycine dehydrogenase (decarboxylating)
+group_3454	hypothetical protein
+group_3455	CDP-alcohol phosphatidyltransferase
+tagH_2	Teichoic acids export ATP-binding protein TagH
+rph	Ribonuclease PH
+obg	GTPase Obg
+group_3462	Putative glutaredoxin.1/MT3292
+ptrB	Protease 2
+group_3464	hypothetical protein
+argF	Ornithine carbamoyltransferase
+argD	Acetylornithine aminotransferase
+hflX	GTPase HflX
+ptrA	Protease 3 precursor
+tatD	Tat-linked quality control protein TatD
+speE	spermidine synthase
+purD	Phosphoribosylamine--glycine ligase
+metI	D-methionine transport system permease protein MetI
+group_3485	hypothetical protein
+sigK_2	ECF RNA polymerase sigma factor SigK
+mca	Mycothiol S-conjugate amidase
+gsiA_1	Glutathione import ATP-binding protein GsiA
+rsmH	Ribosomal RNA small subunit methyltransferase H
+ybeZ_2	PhoH-like protein
+corC_2	Magnesium and cobalt efflux protein CorC
+era	GTPase Era
+dgt	Deoxyguanosinetriphosphate triphosphohydrolase
+dppA_2	Periplasmic dipeptide transport protein precursor
+murD_1	putative bifunctional UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase/UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase
+gyrA_2	DNA gyrase subunit A
+dxs	1-deoxy-D-xylulose-5-phosphate synthase
+amtB	Ammonia channel precursor
+sigD	RNA polymerase sigma-D factor
+flgB	Flagellar basal body rod protein FlgB
+flhA	Flagellar biosynthesis protein FlhA
+thrS	Threonine--tRNA ligase
+ruvC	Crossover junction endodeoxyribonuclease RuvC
+group_3603	preprotein translocase subunit SecF
+group_3604	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+sacB	Capsular polysaccharide phosphotransferase SacB
+trpD	Anthranilate phosphoribosyltransferase
+gdhI	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+group_3609	Type III restriction enzyme, res subunit
+group_3610	GDSL-like Lipase/Acylhydrolase
+polC_1	DNA polymerase III subunit epsilon
+group_3613	glmZ(sRNA)-inactivating NTPase
+polA_2	DNA polymerase I
+trpE	Anthranilate synthase component 1
+pyrC	Dihydroorotase
+pyrB	Aspartate carbamoyltransferase
+alaS	Alanine--tRNA ligase
+rip1	Zinc metalloprotease Rip1
+group_3624	hypothetical protein
+atpH	ATP synthase subunit delta
+ilvE_2	Branched-chain-amino-acid aminotransferase
+rmlA2	Glucose-1-phosphate thymidylyltransferase 2
+punA	Purine nucleoside phosphorylase
+pdp	Pyrimidine-nucleoside phosphorylase
+rfbM	Mannose-1-phosphate guanylyltransferase RfbM
+group_3634	succinate dehydrogenase cytochrome b556 small membrane subunit
+ribBA_1	Riboflavin biosynthesis protein RibBA
+group_3636	phosphodiesterase YaeI
+ackA	Acetate kinase
+pta	Phosphate acetyltransferase
+metB	Cystathionine gamma-synthase
+ycjO_1	Inner membrane ABC transporter permease protein YcjO
+group_3643	hypothetical protein
+group_3647	hypothetical protein
+group_3652	putative ABC transporter ATP-binding protein
+group_3653	Acetyltransferase (GNAT) family protein
+pat	Putative phenylalanine aminotransferase
+znuB	High-affinity zinc uptake system membrane protein ZnuB
+hspR	Putative heat shock protein HspR
+lplA	putative lipoate-protein ligase A
+hemA	Glutamyl-tRNA reductase
+yycB	putative transporter YycB
+serC	Phosphoserine aminotransferase
+ftsW_1	Lipid II flippase FtsW
+kynu	Kynureninase
+ybeZ_1	PhoH-like protein
+ispH	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+rmuC	DNA recombination protein RmuC
+group_3698	Fibronectin-binding protein (FBP)
+group_3702	hypothetical protein
+uvrD2	ATP-dependent DNA helicase UvrD2
+proB	Glutamate 5-kinase
+infC	Translation initiation factor IF-3
+group_3713	hypothetical protein
+hrpB_2	ATP-dependent RNA helicase HrpB
+nei1_1	Endonuclease 8 1
+recN	DNA repair protein RecN
+cysK1	O-acetylserine sulfhydrylase
+pepO	Neutral endopeptidase
+oppD_1	Oligopeptide transport ATP-binding protein OppD
+group_3825	hypothetical protein
+hrcA	Heat-inducible transcription repressor HrcA
+dnaG	DNA primase
+dppB_2	Dipeptide transport system permease protein DppB
+group_3837	Polyketide cyclase / dehydrase and lipid transport
+group_3839	FlgN protein
+group_3843	preprotein translocase subunit SecD
+group_3845	hypothetical protein
+hisF	Imidazole glycerol phosphate synthase subunit HisF
+rpe	Ribulose-phosphate 3-epimerase
+carB	Carbamoyl-phosphate synthase large chain
+hom	Homoserine dehydrogenase
+glgE1	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 1
+trmD	tRNA (guanine-N(1)-)-methyltransferase
+rnc	Ribonuclease 3
+leuD	3-isopropylmalate dehydratase small subunit
+whiB	Transcriptional regulator WhiB
+tmpC	Membrane lipoprotein TmpC precursor
+bcr_1	Bicyclomycin resistance protein
+hepT	Heptaprenyl diphosphate synthase component 2
+ubiE	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+sdpR	Transcriptional repressor SdpR
+group_387	hypothetical protein
+lptB	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+uvrD1_1	ATP-dependent DNA helicase UvrD1
+group_3880	Putative multidrug export ATP-binding/permease protein
+bkdA	3-methyl-2-oxobutanoate dehydrogenase subunit alpha
+idi	Isopentenyl-diphosphate Delta-isomerase
+glyA1	Serine hydroxymethyltransferase 1
+pepN_2	Aminopeptidase N
+group_3905	hypothetical protein
+group_3906	Rossmann-like domain protein
+pfp	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+hemH	Ferrochelatase
+group_3910	Putative NrdI-like protein
+ydaF_2	Putative ribosomal N-acetyltransferase YdaF
+gpr_2	L-glyceraldehyde 3-phosphate reductase
+trxB_1	Thioredoxin reductase
+group_3921	hypothetical protein
+group_3922	Magnesium transporter MgtE
+argC	N-acetyl-gamma-glutamyl-phosphate reductase
+pheS	Phenylalanine--tRNA ligase alpha subunit
+priA_2	Phosphoribosyl isomerase A
+hisH	Imidazole glycerol phosphate synthase subunit HisH
+helD	Helicase IV
+group_3938	CGNR zinc finger
+group_3940	hypothetical protein
+group_3942	hypothetical protein
+tdcB	L-threonine dehydratase catabolic TdcB
+pyrE	Orotate phosphoribosyltransferase
+tnrA	MerR family regulatory protein
+group_4051	Trans,polycis-polyprenyl diphosphate synthase ((2Z,6E)-farnesyl diphosphate specific)
+ppgK	Polyphosphate glucokinase
+pdhD	Dihydrolipoyl dehydrogenase
+group_4060	hypothetical protein
+acnA	Aconitate hydratase
+fadA	3-ketoacyl-CoA thiolase
+fliQ	Flagellar biosynthetic protein FliQ
+ylmA_1	putative ABC transporter ATP-binding protein YlmA
+gltB_2	Glutamate synthase [NADPH] small chain
+gltB_1	Glutamate synthase [NADPH] large chain
+group_4079	hypothetical protein
+argS	Arginine--tRNA ligase
+group_4082	hypothetical protein
+rsrA	hypothetical protein
+frr	Ribosome-recycling factor
+rpsB	30S ribosomal protein S2
+xylE	D-xylose-proton symporter
+sdhC	Succinate dehydrogenase/Fumarate reductase transmembrane subunit
+dnaX_2	DNA polymerase III subunit tau
+secE	preprotein translocase subunit SecE
+group_4093	hypothetical protein
+glmM	Phosphoglucosamine mutase
+group_4097	hypothetical protein
+ptpA_1	putative low molecular weight protein-tyrosine-phosphatase
+livH	High-affinity branched-chain amino acid transport system permease protein LivH
+glpD_1	Aerobic glycerol-3-phosphate dehydrogenase
+yhaU	K( )/H( ) antiporter YhaU
+galT	Galactose-1-phosphate uridylyltransferase
+fdm_2	Formaldehyde dismutase
+nei1_2	Endonuclease 8 1
+rpiB_2	Ribose-5-phosphate isomerase B
+group_4109	hypothetical protein
+recQ_2	ATP-dependent DNA helicase RecQ
+group_4111	hypothetical protein
+argA	Amino-acid acetyltransferase
+ppnK_1	putative inorganic polyphosphate/ATP-NAD kinase
+lysX	Lysylphosphatidylglycerol biosynthesis bifunctional protein LysX
+hemB	Delta-aminolevulinic acid dehydratase
+helY_2	ski2-like helicase
+sugC	Trehalose import ATP-binding protein SugC
+gpmA_1	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+group_4121	hypothetical protein
+pbpA	Penicillin-binding protein A
+dapE_2	Succinyl-diaminopimelate desuccinylase
+valS	Valine--tRNA ligase
+hisB	Imidazoleglycerol-phosphate dehydratase
+rsbV	Anti-sigma-B factor antagonist
+group_4150	hypothetical protein
+pstA	Phosphate transport system permease protein PstA
+pstC	Phosphate transport system permease protein PstC
+group_4160	hypothetical protein
+hslR	Heat shock protein 15
+dnaE	DNA polymerase III subunit alpha
+ctaD	Cytochrome c oxidase subunit 1
+dus	putative tRNA-dihydrouridine synthase
+fabF	3-oxoacyl-[acyl-carrier-protein] synthase 2
+fliR	Flagellar biosynthetic protein FliR
+petB	Cytochrome b6
+qcrC	Menaquinol-cytochrome c reductase cytochrome c subunit
+carAc	Ferredoxin CarAc
+uvrB	UvrABC system protein B
+atpB	ATP synthase subunit a
+thrC	Threonine synthase
+ydhP	Inner membrane transport protein YdhP
+gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P) ]
+ilvB	Acetolactate synthase large subunit
+strE	dTDP-glucose 4,6-dehydratase
+ptsH	Phosphocarrier protein HPr
+nagC_1	N-acetylglucosamine repressor
+fprA	NADPH-ferredoxin reductase FprA
+rplD	50S ribosomal protein L4
+rpsE	30S ribosomal protein S5
+tsaD	tRNA N6-adenosine threonylcarbamoyltransferase
+dps2	DNA protection during starvation protein 2
+guaA	GMP synthase [glutamine-hydrolyzing]
+pheA	Prephenate dehydratase
+pgm	Phosphoglucomutase
+rnhA	Ribonuclease HI
+lysN_1	2-aminoadipate transaminase
+crgA	Cell division protein CrgA
+fhaA	FHA domain-containing protein FhaA
+greA	Transcription elongation factor GreA
+rapA	ATP-dependent helicase HepA
+argB	Acetylglutamate kinase
+metG	Methionine--tRNA ligase
+ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+soj_2	Sporulation initiation inhibitor protein Soj
+ppnK_2	Inorganic polyphosphate/ATP-NAD kinase
+group_4320	hypothetical protein
+pstB3	Phosphate import ATP-binding protein PstB 3
+garA	Glycogen accumulation regulator GarA
+erpA	Iron-sulfur cluster insertion protein ErpA
+group_4421	Putative peroxiredoxin/MT2298
+rmpA	3-hexulose-6-phosphate synthase
+group_4429	putative transcriptional regulatory protein/MSMEI_2866
+fliP	flagellar biosynthesis protein FliO
+ruvB	Holliday junction ATP-dependent DNA helicase RuvB
+aioB	Arsenite oxidase subunit AioB precursor
+fabG1	3-oxoacyl-[acyl-carrier-protein] reductase FabG1
+tal_1	Transaldolase
+group_4436	Glucose-6-phosphate dehydrogenase subunit
+group_4437	hypothetical protein
+hisG	ATP phosphoribosyltransferase
+metK	S-adenosylmethionine synthase
+rarA	Replication-associated recombination protein A
+wecA	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+rpsP	30S ribosomal protein S16
+otsA	Trehalose-phosphate synthase
+glmS_2	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+purB	Adenylosuccinate lyase
+guaB_1	Inosine-5'-monophosphate dehydrogenase
+dcd	Deoxycytidine triphosphate deaminase
+ftsH	ATP-dependent zinc metalloprotease FtsH
+nucS	hypothetical protein
+gtaB	UTP--glucose-1-phosphate uridylyltransferase
+group_4474	hypothetical protein
+group_4475	hypothetical protein
+yidC_2	Membrane protein insertase YidC
+dnaN	DNA polymerase III subunit beta
+gyrB_1	DNA gyrase subunit B
+group_4481	hypothetical protein
+gcvH	Glycine cleavage system H protein
+gltA2	Citrate synthase 1
+group_4486	hypothetical protein
+group_4489	hypothetical protein
+dapA	4-hydroxy-tetrahydrodipicolinate synthase
+pnp	Polyribonucleotide nucleotidyltransferase
+xylA	Xylose isomerase
+purL	Phosphoribosylformylglycinamidine synthase 2
+tig	Trigger factor
+ispB	Octaprenyl-diphosphate synthase
+rpsT	30S ribosomal protein S20
+flgC	Flagellar basal-body rod protein FlgC
+ndh_1	NADH dehydrogenase-like protein
+gapA	Glyceraldehyde-3-phosphate dehydrogenase
+ispG	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+ftsX	Cell division protein FtsX
+prfB	Peptide chain release factor 2
+tsf	Elongation factor Ts
+ffh	Signal recognition particle protein
+ilvD	Dihydroxy-acid dehydratase
+group_4643	hypothetical protein
+uhpA_1	Transcriptional regulatory protein UhpA
+group_4645	hypothetical protein
+rplL	50S ribosomal protein L7/L12
+sodA	Superoxide dismutase [Mn/Fe]
+coaA	Pantothenate kinase
+khtT	K( )/H( ) antiporter subunit KhtT
+bkdB	3-methyl-2-oxobutanoate dehydrogenase subunit beta
+lrp_2	Leucine-responsive regulatory protein
+galE_2	UDP-glucose 4-epimerase
+group_4658	hypothetical protein
+ideR_2	Iron-dependent repressor IdeR
+csp	Cold shock-like protein
+group_4664	hypothetical protein
+rpsF	30S ribosomal protein S6
+gntZ	6-phosphogluconate dehydrogenase, NAD( )-dependent, decarboxylating
+group_4668	Putative O-methyltransferase/MSMEI_4947
+gatB	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+group_469	hypothetical protein
+pyrG	CTP synthase
+lepB_2	Signal peptidase I
+hrpB_1	ATP-dependent RNA helicase HrpB
+mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+lepA	Elongation factor 4
+ybeY	Endoribonuclease YbeY
+group_4786	carbohydrate diacid transcriptional activator CdaR
+nreC_2	Transcriptional regulatory protein LiaR
+pdxS	Pyridoxal biosynthesis lyase PdxS
+ctaE	Cytochrome c oxidase subunit 3
+glpK	Glycerol kinase
+rbpA_2	RNA polymerase-binding protein RbpA
+glgC	Glucose-1-phosphate adenylyltransferase
+ctaB	Protoheme IX farnesyltransferase
+rbpA_1	RNA polymerase-binding protein RbpA
+ilvC	Ketol-acid reductoisomerase
+pdtaS	putative sensor histidine kinase pdtaS
+mtrA	DNA-binding response regulator MtrA
+ycjP_1	Inner membrane ABC transporter permease protein YcjP
+menB	1,4-Dihydroxy-2-naphthoyl-CoA synthase
+rplE	50S ribosomal protein L5
+deoR_2	Deoxyribonucleoside regulator
+ppk	Polyphosphate kinase
+fba	Fructose-bisphosphate aldolase
+ndkA	Nucleoside diphosphate kinase
+purA	Adenylosuccinate synthetase
+der	GTPase Der
+plsC_2	1-acyl-sn-glycerol-3-phosphate acyltransferase
+relA	Bifunctional (p)ppGpp synthase/hydrolase relA
+yurY	Vegetative protein 296
+trpB	Tryptophan synthase beta chain
+group_4998	hypothetical protein
+atpG	ATP synthase gamma chain
+prfA	Peptide chain release factor 1
+group_5001	hypothetical protein
+pyrH	Uridylate kinase
+rplS	50S ribosomal protein L19
+murA1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+srlR_1	Glucitol operon repressor
+group_5011	putative nucleotide-binding protein
+group_5012	leucine/isoleucine/valine transporter permease subunit
+glmU_1	Bifunctional protein GlmU
+nadD	Nicotinate-nucleotide adenylyltransferase
+lexA	LexA repressor
+cobC	bifunctional RNase H/acid phosphatase
+group_5039	hypothetical protein
+purS	phosphoribosylformylglycinamidine synthase subunit PurS
+purF	Amidophosphoribosyltransferase
+glyQS	Glycine--tRNA ligase
+yheS_1	putative ABC transporter ATP-binding protein YheS
+smpB	SsrA-binding protein
+ftsY	Signal recognition particle receptor FtsY
+sdhB	Succinate dehydrogenase iron-sulfur subunit
+gsiA_6	Glutathione import ATP-binding protein GsiA
+rplM	50S ribosomal protein L13
+phoB	Phosphate regulon transcriptional regulatory protein PhoB
+dnaB	Replicative DNA helicase
+typA	GTP-binding protein TypA/BipA
+group_517	hypothetical protein
+fkbP_2	FK506-binding protein
+purQ	Phosphoribosylformylglycinamidine synthase 1
+gatC	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+glkA	Glucokinase
+sufB	FeS cluster assembly protein SufB
+gpt	xanthine-guanine phosphoribosyltransferase
+ftsE	Cell division ATP-binding protein FtsE
+accD5	putative propionyl-CoA carboxylase beta chain 5
+recR	Recombination protein RecR
+group_5305	Helix-turn-helix domain protein
+upp	Uracil phosphoribosyltransferase
+rplX	50S ribosomal protein L24
+rplR	50S ribosomal protein L18
+sucD	Succinyl-CoA ligase [ADP-forming] subunit alpha
+dnaK	Chaperone protein DnaK
+cypB	Peptidyl-prolyl cis-trans isomerase B
+eno	Enolase
+nagD	Ribonucleotide monophosphatase NagD
+tuaD_1	UDP-glucose 6-dehydrogenase TuaD
+recA	recombinase A
+ftsZ	Cell division protein FtsZ
+whiA	Putative sporulation transcription regulator WhiA
+pyk	Pyruvate kinase
+rpsD	30S ribosomal protein S4
+atpC	ATP synthase epsilon chain
+atpA	ATP synthase subunit alpha
+sdhA	Succinate dehydrogenase flavoprotein subunit
+narL	putative transcriptional regulatory protein NarL
+rpsQ	30S ribosomal protein S17
+rplO	50S ribosomal protein L15
+secY	preprotein translocase subunit SecY
+rpsI	30S ribosomal protein S9
+group_5486	putative oxidoreductase/MSMEI_1564
+nrdF2	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+regX3_2	Sensory transduction protein regX3
+prs	Ribose-phosphate pyrophosphokinase
+atpF	ATP synthase subunit b
+hmrR	hypothetical protein
+mraZ	cell division protein MraZ
+paaD	Putative 1,2-phenylacetyl-CoA epoxidase, subunit D
+zwf_1	Glucose-6-phosphate 1-dehydrogenase
+efp	Elongation factor P
+ask	Aspartokinase
+rplW	50S ribosomal protein L23
+rplF	50S ribosomal protein L6
+rpmB	50S ribosomal protein L28
+hpt	Hypoxanthine-guanine phosphoribosyltransferase
+nrdE2	Ribonucleoside-diphosphate reductase subunit alpha 2
+groL1	60 kDa chaperonin 1
+group_5682	Ferredoxin
+clpP2_1	ATP-dependent Clp protease proteolytic subunit 2
+clpP2_2	ATP-dependent Clp protease proteolytic subunit 2
+rpmI	50S ribosomal protein L35
+parA	Chromosome partitioning protein ParA
+glnA	Glutamine synthetase
+uhpA_2	Transcriptional regulatory protein UhpA
+group_5883	hypothetical protein
+rplA	50S ribosomal protein L1
+fusA	Elongation factor G
+tuf	Elongation factor Tu
+rplC	50S ribosomal protein L3
+rpmC	50S ribosomal protein L29
+rpsH	30S ribosomal protein S8
+rpsN	30S ribosomal protein S14
+rplI	50S ribosomal protein L9
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+ilvH	Acetolactate synthase small subunit
+trxA_1	Thioredoxin-1
+rpmH	50S ribosomal protein L34
+rpsO	30S ribosomal protein S15
+acpP	Acyl carrier protein
+rpoZ	DNA-directed RNA polymerase subunit omega
+group_6447	hypothetical protein
+rplJ	50S ribosomal protein L10
+rpoB	DNA-directed RNA polymerase subunit beta
+rplB	50S ribosomal protein L2
+rplV	50S ribosomal protein L22
+rpmD	50S ribosomal protein L30
+groS	10 kDa chaperonin
+hup	DNA-binding protein HU
+dnaX_1	DNA polymerase III subunit tau
+rplT	50S ribosomal protein L20
+nlpD	Murein hydrolase activator NlpD precursor
+group_6800	hypothetical protein
+atpD	ATP synthase subunit beta
+rplK	50S ribosomal protein L11
+rpsC	30S ribosomal protein S3
+rplP	50S ribosomal protein L16
+rpsM	30S ribosomal protein S13
+pitA_2	Low-affinity inorganic phosphate transporter 1
+garK	Glycerate 2-kinase
+moeA	Molybdopterin molybdenumtransferase
+rpmE2	50S ribosomal protein L31 type B
+secG	preprotein translocase subunit SecG
+pdtaR	putative transcriptional regulatory protein pdtaR
+atpE	ATP synthase subunit c
+rpmF	50S ribosomal protein L32
+rpoC	DNA-directed RNA polymerase subunit beta'
+rpsS	30S ribosomal protein S19
+rplN	50S ribosomal protein L14
+infA	Translation initiation factor IF-1
+clgR	Transcriptional regulator ClgR
+ydfG_2	putative oxidoreductase
+rpsG	30S ribosomal protein S7
+rpmG2	50S ribosomal protein L33 2
+carD	RNA polymerase-binding transcription factor CarD
+rpoA	DNA-directed RNA polymerase subunit alpha
+comEA	ComE operon protein 1
+group_812	hypothetical protein
+group_813	T5orf172 domain protein
+ycjS_1	putative oxidoreductase YcjS
+rsmC_2	Ribosomal RNA small subunit methyltransferase C
+group_832	hypothetical protein
+rpsL	30S ribosomal protein S12
+rpsJ	30S ribosomal protein S10
+rpsR1	30S ribosomal protein S18 1
+mrcA	Penicillin-binding protein 1A
+ribD_1	5-amino-6-(5-phosphoribosylamino)uracil reductase
+ampH	D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH precursor
+group_918	replication factor C small subunit
+mtlD_2	Mannitol-1-phosphate 5-dehydrogenase
+rpsK	30S ribosomal protein S11
+group_990	hypothetical protein
